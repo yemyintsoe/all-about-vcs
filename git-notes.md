@@ -1,13 +1,19 @@
 ### DELETING BRANCHS
 ##### Delete local brach
-``` git branch -d <brandName> ```
+``` 
+git branch -d <brandName>
+```
 
 ##### Delete remote branch
-``` git push -d origin <branchName> ```
+``` 
+git push -d origin <branchName>
+```
 
 ### CHANGE REMOTE URL
 ##### Check remote url
-``` git remote -v ```
+``` 
+git remote -v
+```
 
 ##### Change URL
 ```
